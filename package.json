@@ -1,0 +1,15 @@
+{
+  "name": "xdwy",
+  "version": "1.0.0",
+  "description": "X days without Y",
+  "main": "main.js",
+  "scripts": {
+    "start" : "node express.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "256k",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
